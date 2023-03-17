@@ -133,7 +133,7 @@ nav {
   background: white;
 }
 
-/* ==================== SEARCH BUTTON ===================== */
+/*
 #searchBox {
   width: 200px;
   padding: 10px;
@@ -145,6 +145,8 @@ nav {
   font-size: 16px;
   font-weight: bold;
 }
+
+*/
 
 
 /* styles for navbar when window is scrolled using JavaScript */
