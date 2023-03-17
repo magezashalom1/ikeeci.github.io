@@ -133,6 +133,20 @@ nav {
   background: white;
 }
 
+/* ==================== SEARCH BUTTON ===================== */
+#searchBox {
+  width: 200px;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+#searchResults {
+  margin-top: 20px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+
 /* styles for navbar when window is scrolled using JavaScript */
 .window-scroll {
   background: var(--color-primary);
