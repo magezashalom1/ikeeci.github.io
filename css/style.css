@@ -157,7 +157,7 @@ nav {
 
 .window-scroll .logo{
   width: 5rem;
-  content: url(logo11.png);
+  content: hide;
 }
 
 .window-scroll a{
