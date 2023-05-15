@@ -730,9 +730,9 @@ footer .copyright {
     margin-top: 0;
   }
 
-  header .container .info .cta #show-commercial-btn {
+  /* header .container .info .cta #show-commercial-btn {
     display: none;
-  }
+  } */
 
   /* ================== PRODUCTS ================== */
   section#products .container {
