@@ -1,1 +1,1 @@
-LMAO! DONT READ ME NIGGA 
+You Are Awesome!
