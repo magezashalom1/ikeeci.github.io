@@ -290,7 +290,7 @@ section#commercial {
   left: 0;
   z-index: 10;
   padding: 0;
-  display: grid;
+  /* display: grid; */
   place-items: center;
   display: none;
 }
@@ -308,19 +308,19 @@ section#commercial .container video {
   width: 50%;
 }
 
-section#commercial .container .commercial-pictures {
+/* section#commercial .container .commercial-pictures {
   margin: 6rem;
   flex: 25%;
   max-width: 25%;
   padding: 0 4px;
-}
+} */
 
-
+/* 
 section#commercial .container .commercial-pictures img {
   margin-top: 8px;
   vertical-align: middle;
   height: 11rem;
-}
+} */
 
 
 
